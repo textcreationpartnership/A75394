@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Another victory in Lancashire obtained against the Scots by Major General Harrison, and Collonel Lilburn. With, the taking of Lievt. Gen. David Lesly, Maj. Gen. Middleton, and other eminent officers and commanders, with six hundred private souldiers, horse and arms; and a list of the particulars. Also, the death of Maj. Gen. Massey and Duke Hamilton, and the Scots Kings going with Hind the great robber. Together, with the manner of my Lord General Cromwels comming up, and noble reception by the City of London; and an account of the Scots prisoners which marched through the City on Saturday last.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75394</idno>
+            <idno type="STC">Wing A3274</idno>
+            <idno type="STC">Thomason E641_14</idno>
+            <idno type="STC">ESTC R206718</idno>
+            <idno type="EEBO-CITATION">99865831</idno>
+            <idno type="PROQUEST">99865831</idno>
+            <idno type="VID">165942</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75394)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165942)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E641[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Another victory in Lancashire obtained against the Scots by Major General Harrison, and Collonel Lilburn. With, the taking of Lievt. Gen. David Lesly, Maj. Gen. Middleton, and other eminent officers and commanders, with six hundred private souldiers, horse and arms; and a list of the particulars. Also, the death of Maj. Gen. Massey and Duke Hamilton, and the Scots Kings going with Hind the great robber. Together, with the manner of my Lord General Cromwels comming up, and noble reception by the City of London; and an account of the Scots prisoners which marched through the City on Saturday last.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by B.A.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M D C L I. [1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Sept. 15".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165942:1" rendition="simple:additions"/>
+            <p>Another VICTORY IN LANCASHIRE Obtained againſt the SCOTS BY <hi>Major General</hi> Harriſon, <hi>and Collonel</hi> Lilburn.</p>
+            <p>WITH, The taking of Lievt. Gen. <hi>David Leſly,</hi> Maj. Gen. <hi>Mid<g ref="char:EOLhyphen"/>dleton,</hi> and other eminent Officers and Command<g ref="char:EOLhyphen"/>ers, with ſix hundred private Souldiers, horſe and arms; and a Liſt of the particulars.</p>
+            <p>Alſo, the Death of Maj. Gen. <hi>Maſſey</hi> and Duke <hi>Hamil<g ref="char:EOLhyphen"/>ton,</hi> and the Scots Kings going with <hi>Hind</hi> the great ROBBER.</p>
+            <p>Together, with the manner of my Lord General <hi>Crom<g ref="char:EOLhyphen"/>wels</hi> comming up, and noble Reception by the Ci<g ref="char:EOLhyphen"/>ty of London; and an account of the Scots priſoners which marched through the City on Saturday laſt.</p>
+            <p>
+               <hi>London:</hi> Printed by <hi>B. A.</hi> MDCLI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:165942:2"/>
+            <pb n="1" facs="tcp:165942:2"/>
+            <head>A perfect RELATION Of his Excellency the Lord Generall CROMWELLS Reception by the Nobility, Gent. and Citizens in and about the City of London, on Fryday, the 12 of <hi>Sept.</hi> 1651. being nine days after the glorious victory obteined by his Ex<g ref="char:EOLhyphen"/>cellency againſt the King of Scots and his Army at <hi>Worcester.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">F</seg>Ryday the 12 of <hi>Sept.</hi> my Lord Gene<g ref="char:EOLhyphen"/>ral drew near to the City of London and my Lord Mayor, and Aldermen, Sheriffs, and Recorder met about 10 of the clock in the forenoon at Guild<g ref="char:EOLhyphen"/>hall in their Scarlet robes, and with a dozen coaches
+<pb n="2" facs="tcp:165942:3"/>went forth to meet his Excellency, a little beyond Acton, unto whom Mr. Recorder made a congratu<g ref="char:EOLhyphen"/>latory ſpeech in behalf of the whole City, he was alſo met on the way by many Lords, the Speaker of Parliament and Members of the Councel of State as allo many thouſands of Citizens both horſe and foot (yet the Train-bands went not forth) which filled the ways and places beſt ſcituate for beholders four or five miles together. Firſt, came his Life<g ref="char:EOLhyphen"/>guard being a Company of as gallant Gent. as you have ſeen mounted, heroick, and valiant; after them a Troop of Col. <hi>Rows</hi> horſe belonging to the City, next unto them a great number of Common<g ref="char:EOLhyphen"/>ers and Gent. of quality, then his Excellency and the Speaker of Parliament came in a coach by them<g ref="char:EOLhyphen"/>ſelves, and by eſtimation at leaſt three hundred coa<g ref="char:EOLhyphen"/>ches cloſe after one another.</p>
+            <p>At Hide. Park corner near Knights-bridge ſtood to receive him the blew Regiment of Voluntiers lately raiſed, and from thence to Piccadilly was placed Col. <hi>Bark steads</hi> Regiment of red-coats, the great guns were alſo drawn out of St. Jameſes, and about the time that his Excellency came to Cha<g ref="char:EOLhyphen"/>ring-croſſe they went off one after another once over which they had no ſooner done, but there was a gal<g ref="char:EOLhyphen"/>lant volley of ſhot given by the ſouldiers that brake the air, and with a mighty ſhout of the people ec<g ref="char:EOLhyphen"/>choed again to the earth, with order in the manner aforeſaid with great and ſmall ſhot, and hallowing of the people was obſerved and done four ſeverall times over.</p>
+            <pb n="3" facs="tcp:165942:3"/>
+            <p>As the Generall paſſed by, the people all along as he went put off their hats, and had reciprocal reſ<g ref="char:EOLhyphen"/>pects return'd from him again; his Excellency choſe rather to come in as privately as he could in a coach then openly on horſeback, to avoid the popularity and applauſes of the people, deſiring rather that the good he doth to this Common-wealth may be heard and felt then ſeen, that the people ſhould at<g ref="char:EOLhyphen"/>tribute or aſcribe too much unto him, who deſires to carry on the work of the Lord in all meekneſſe and humility.</p>
+            <p>The laſt night the Scots, Highlands, or Redſhanks, about 4000 in number lay on Hampſtead heath, four miles from London, and this day they were with a guard brought by Highgate on the back-ſide of Iſlington to Kingsland, and from thence to Milin-green, they were ſuffered to receive ſuch charity as people would give them, and had a cart load or two of bisket carrying after them, which is better food then heretofore they carried in their Oatrueal-bag. The next day being Saturday they were brought in at Algate, and ſo marched through cheap-ſide, Fleet-ſtreet and the Strand, and likewiſe through Weſt<g ref="char:EOLhyphen"/>minſter. For the moſt part they were very ſturdy ſurley knaves, keep them under, and they may ſerve for naſty ſtinking vaſſals, I leave to every indiffe<g ref="char:EOLhyphen"/>rent perſon that hath beheld them to judge what a condition they had been in if ſuch a generation as this had prevailed and become their maſters, or cut their throats, of which they made themſelves ſo ſure many of them brought their wives and berns in with them, yet were many of our Scotified Citizens ſo
+<pb n="4" facs="tcp:165942:4"/>pittifull unto them, that as they paſſed through the City they made them (though priſoners at mercy) maſters of more money and good white-bread then ſome of them ever ſee in their lives, they marched this night into Tuttle fields, ſome Iriſh are amongſt them, and moſt of them are habited much after that faſhion, the Engliſh that were at the battel are ſe<g ref="char:EOLhyphen"/>vered out by themſelves; they are not yet come, but are coming up.</p>
+            <p>The Engliſh Lords and Scots with other eminent Commanders, are carried to Windſor and other places for ſecurity, till the Parliament take further order, the Parliament hath appointed Thurſday the 2 of Octob. to be ſet apart as a day of ſolemn thanks<g ref="char:EOLhyphen"/>giving to be obſerved over all the 3 Nations of Eng<g ref="char:EOLhyphen"/>land, Scotland, and Ireland. It is not yet known of a<g ref="char:EOLhyphen"/>ny certainty where the Scots King is, if he be not al<g ref="char:EOLhyphen"/>ready gotten away into the Iſle of man, its thought he lies ſculking about in ſome private corners with <hi>Hind</hi> his guide. Major Gen. <hi>Harriſon,</hi> Col. <hi>Lilburn,</hi> Lievt. Gen, <hi>Fleetwood,</hi> and moſt of my Lord Generals horſe are active in gathering up of ſuch as eſcaped at the fight and are diſpierced, the Maj. Gen. is advan<g ref="char:EOLhyphen"/>ced after a party of the enemies horſe, with whom were <hi>Middleton,</hi> and <hi>David Leſley,</hi> which went to<g ref="char:EOLhyphen"/>wards Lancaſhire. And you are to obſerve this by the way, that much about the ſame time that my Lord Gen. came to London, <hi>viz.</hi> on Fryday about 5 of the clock, there came Letters which advertized that Lievt. Gen. <hi>Leſley,</hi> Maj. Gen. <hi>Middleton</hi> with ma<g ref="char:EOLhyphen"/>ny other officers of note, &amp; about 600 private ſoul<g ref="char:EOLhyphen"/>diers are taken priſoners at a town called Middleton
+<pb n="5" facs="tcp:165942:4"/>in Lancaſhire; it is alſo reported that D. <hi>Hambleton</hi> and <hi>Maſsey</hi> (who were taken priſoners) are dead, but I leave the certainty thereof to further relations.</p>
+            <p>We alſo underſtand that the town of Middleton (which proves fatal to him of that name) is on the further part of all Lancaſhire toward the ſea, and if the enemy had had any-time to ſtay without being purſued, its likely they had ſome hopes of getting over into the Iſle of Man; theſe are thoſe Scots which were at Sandbatch about a week ſince, and killed 6 or 7 of the country people which cauſed the reſt to riſe.</p>
+            <p>There is now taken a tall young Gentleman which there was ſome thoughts at firſt to be the Scots King but it proves otherways, ſince the eſcape of this party of Scots Northwards, we hear that Sir <hi>Wil. Hart</hi> and others of quality are taken; beſides, thoſe before ſpoken of, and near 20 that were taken priſoners at their coming over Warrington-bridge, and carried to Cheſter, are already tried by a Coun<g ref="char:EOLhyphen"/>cel of war, and have received (at the leaſt) ſentence to be ſhot to death.</p>
+            <p>And truly there is great cauſe that we ſhould bleſſe God, and ſing aloud of his praiſes for the great and ſeaſonable deliverance we have now had in making bare his glorious arm againſt ſuch as had lifted up their hands and decreed amongſt them<g ref="char:EOLhyphen"/>ſelves againſt the lives and eſtates of us and our chil<g ref="char:EOLhyphen"/>dren. Let us therefore be ever mindful of his works and the wonderous things which hee hath done for us.</p>
+         </div>
+         <div type="list_of_spoils_of_war">
+            <pb n="6" facs="tcp:165942:5"/>
+            <head>A Liſt of Priſoners, Horſe, and Arms taken.</head>
+            <list>
+               <item>LIeut. Gen. David Leſ<g ref="char:EOLhyphen"/>ly.</item>
+               <item>Maj. Gen. Middleton.</item>
+               <item>Sir William Hart.</item>
+               <item>Col. Hutrey.</item>
+               <item>Col. Flower.</item>
+               <item>C. Montgomery.</item>
+               <item>Cap. Middleton,</item>
+               <item>M. Graham.</item>
+               <item>M. Beckwith.</item>
+               <item>C. Kieth.</item>
+               <item>Cap. Monro.</item>
+               <item>Cap. Butlar.</item>
+               <item>Cap. Mackey.</item>
+               <item>Cap. Blaire.</item>
+               <item>And many other Col. Maj. and other chief Officers, which had eſcaped, and loſt their men at the fight at Worceſter.</item>
+               <item>30 Lieutenants and Corners.</item>
+               <item>40 Quartermaſters.</item>
+               <item>20 Corporals.</item>
+               <item>500 and odde private ſouldiers.</item>
+               <item>600 Arms, and many Portmantels, &amp; good Booty.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
